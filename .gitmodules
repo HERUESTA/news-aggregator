@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:HERUESTA/sample_front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:HERUESTA/sample_back.git
